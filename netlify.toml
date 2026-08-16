@@ -1,0 +1,3 @@
+[build]
+  command = "cd chess-nextjs && npm install && npm run build"
+  publish = "chess-nextjs/.next"
